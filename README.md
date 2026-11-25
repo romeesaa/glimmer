@@ -1,2 +1,4 @@
 # glimmer
-shine bright like a diamond
+a cute old smart necklace!!
+not complete yet.
+
